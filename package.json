@@ -1,0 +1,20 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "touch.gitignore"
+  },
+  "keywords": [
+    "echo",
+    "¨node",
+    "modules¨>>.gitignore"
+  ],
+  "author": "¨martinlguevara¨ <¨martinlguevara@gmail.com¨> (http://www.tuhomepage.com)",
+  "license": "ISC"
+}
